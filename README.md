@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamsan6
 - 👀 I’m interested in data 
-- 🌱 I’m currently learning to relearn coding and sql
-- 💞️ I’m looking to collaborate on nah
+- 🌱 I’m currently relearning coding and advanced sql
+- 💞️ I’m looking to collaborate on great ideas
 - 📫 How to reach me ...
 
 <!---
